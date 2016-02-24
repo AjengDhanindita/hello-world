@@ -1,2 +1,6 @@
 # hello-world
-testing
+
+
+Hi Human!
+This is ajeng speaking(?)
+bruh..
